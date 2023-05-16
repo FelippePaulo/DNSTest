@@ -132,8 +132,30 @@ def testaDns(dnss,sites):
                 atualizaDNS(dns)
                 print(jsonSite['site'] + "(" + dns + ")")
             
+            #checar adguard (94.140.14.15)
+            if (resultado.strip().startswith("94.140.14.35")):
+                atualizaDNS(dns)
+                print(jsonSite['site'] + "(" + dns + ")")
+            
             #checar adguardplus (176.103.130.132)
             if (resultado.strip().startswith("176.103.130.135")):
+                atualizaDNS(dns)
+                print(jsonSite['site'] + "(" + dns + ")")
+                
+            #checar familydns (94.130.180.225)
+            if (resultado.strip().startswith("159.69.10.249")):
+                atualizaDNS(dns)
+                print(jsonSite['site'] + "(" + dns + ")")
+            
+             #checar neustar (156.154.70.3)
+            if (resultado.strip().startswith("156.154.112.17 156.154.113.17")):
+                atualizaDNS(dns)
+                print(jsonSite['site'] + "(" + dns + ")")
+                
+            
+                
+            #checar safesurfer (104.197.28.121)
+            if (resultado.strip().startswith("block.safesurfer.io. 35.223.21.212")):
                 atualizaDNS(dns)
                 print(jsonSite['site'] + "(" + dns + ")")
             
