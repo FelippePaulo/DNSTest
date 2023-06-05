@@ -1,2 +1,2 @@
 # DNSTest
-Test to check witch dns is best for bloquing pharming atacks 
+Test to check witch dns is best for bloquing atacks 
