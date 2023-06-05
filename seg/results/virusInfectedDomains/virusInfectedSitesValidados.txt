@@ -1,0 +1,188 @@
+{"site" : "aannemers-nederland.nl" , "resposta" : "87.233.140.51 "}
+{"site" : "abcdesign.ru" , "resposta" : "78.46.88.140 "}
+{"site" : "advm1.gm.fh-koeln.de" , "resposta" : "139.6.57.1 "}
+{"site" : "agence-tamtam.fr" , "resposta" : "217.160.0.104 "}
+{"site" : "airnav.com" , "resposta" : "178.128.135.124 "}
+{"site" : "aktor.ru" , "resposta" : "141.101.228.58 "}
+{"site" : "alexey.pioneers.com.ru" , "resposta" : "178.210.89.119 "}
+{"site" : "alfinternational.ru" , "resposta" : "178.210.92.7 "}
+{"site" : "ankil.ru" , "resposta" : "31.177.76.70 31.177.80.70 "}
+{"site" : "aphel.de" , "resposta" : "104.247.81.51 "}
+{"site" : "apsua.com" , "resposta" : "64.190.63.111 "}
+{"site" : "artics.ru" , "resposta" : "87.236.16.203 "}
+{"site" : "astoria-stuttgart.de" , "resposta" : "85.13.163.40 "}
+{"site" : "aus-zeit.com" , "resposta" : "127.0.0.1 "}
+{"site" : "avant.ru" , "resposta" : "87.236.16.172 "}
+{"site" : "baltmatours.com" , "resposta" : "192.64.119.163 "}
+{"site" : "bdbd.ru" , "resposta" : "95.213.216.47 "}
+{"site" : "bhoominivesh.com" , "resposta" : "15.197.142.173 3.33.152.147 "}
+{"site" : "binn.ru" , "resposta" : "95.213.172.134 "}
+{"site" : "biysk.ru" , "resposta" : "194.150.136.68 "}
+{"site" : "boglen.com" , "resposta" : "172.67.217.66 104.21.59.65 "}
+{"site" : "browsertoolbar.com" , "resposta" : "traff-4.hugedomains.com. hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com. 52.86.6.113 3.94.41.167 "}
+{"site" : "brush7.com" , "resposta" : "wangpu-cn.alibaba.com. 110.173.196.1 "}
+{"site" : "busheron.ru" , "resposta" : "62.109.29.196 "}
+{"site" : "carabi.ru" , "resposta" : "83.243.75.6 "}
+{"site" : "carmelview.com" , "resposta" : "traff-4.hugedomains.com. hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com. 52.86.6.113 3.94.41.167 "}
+{"site" : "caterquip.co.uk" , "resposta" : "142.93.45.57 "}
+{"site" : "ccbootcamp.com" , "resposta" : "109.68.33.18 "}
+{"site" : "change.east.ru" , "resposta" : "cobra-p.east.ru. "}
+{"site" : "chelny.ru" , "resposta" : "31.31.205.163 "}
+{"site" : "ciachoo.pl" , "resposta" : "195.149.224.54 "}
+{"site" : "cingularone.com" , "resposta" : "38.53.51.161 "}
+{"site" : "controltechniques.ru" , "resposta" : "62.122.170.171 "}
+{"site" : "cploving.awmhost.net" , "resposta" : "13.248.169.48 76.223.54.146 "}
+{"site" : "crackz.ws" , "resposta" : "199.59.243.223 "}
+{"site" : "dami.com.pl" , "resposta" : "82.139.8.22 "}
+{"site" : "dicto.ru" , "resposta" : "62.122.170.171 "}
+{"site" : "digicrime.com" , "resposta" : "216.184.2.32 "}
+{"site" : "dikai.com" , "resposta" : "139.224.227.122 "}
+{"site" : "dodgetheatre.com" , "resposta" : "209.104.56.26 209.104.45.32 209.104.34.32 209.104.58.32 "}
+{"site" : "dsmedia.ru" , "resposta" : "84.201.157.57 "}
+{"site" : "dynex.ru" , "resposta" : "62.122.170.171 "}
+{"site" : "elemental.ru" , "resposta" : "62.122.170.171 "}
+{"site" : "elit-line.ru" , "resposta" : "87.236.19.40 "}
+{"site" : "epski.gr" , "resposta" : "116.203.195.204 "}
+{"site" : "errorguard.com" , "resposta" : "45.33.23.183 72.14.185.43 45.56.79.23 45.79.19.196 96.126.123.244 45.33.30.197 72.14.178.174 45.33.18.44 173.255.194.134 45.33.20.235 198.58.118.167 45.33.2.79 "}
+{"site" : "evadia.ru" , "resposta" : "82.146.61.40 "}
+{"site" : "fairy.dataforce.net" , "resposta" : "195.42.160.19 "}
+{"site" : "financial.washingtonpost.com" , "resposta" : "washpost.bloomberg.com. washpost.bloomberg.wallst.com. "}
+{"site" : "free-time.ru" , "resposta" : "194.58.90.27 "}
+{"site" : "free.bestialityhost.com" , "resposta" : "204.11.56.48 "}
+{"site" : "friend-card.com" , "resposta" : "traff-6.hugedomains.com. hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com. 18.119.154.66 3.140.13.188 "}
+{"site" : "friend-greetings.com" , "resposta" : "13.248.169.48 76.223.54.146 "}
+{"site" : "friendcard.com" , "resposta" : "76.223.54.146 13.248.169.48 "}
+{"site" : "friendcards.com" , "resposta" : "69.165.107.22 "}
+{"site" : "friendgreet.com" , "resposta" : "traff-6.hugedomains.com. hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com. 3.140.13.188 18.119.154.66 "}
+{"site" : "friendgreeting.com" , "resposta" : "traff-2.hugedomains.com. hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com. 3.130.253.23 3.130.204.160 "}
+{"site" : "friendgreetings.com" , "resposta" : "traff-4.hugedomains.com. hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com. 52.86.6.113 3.94.41.167 "}
+{"site" : "friendgreetings.net" , "resposta" : "13.248.169.48 76.223.54.146 "}
+{"site" : "friendlygreeting.com" , "resposta" : "208.91.196.152 "}
+{"site" : "friendlygreetings.com" , "resposta" : "207.148.248.143 "}
+{"site" : "friendsgreetings.com" , "resposta" : "13.248.169.48 76.223.54.146 "}
+{"site" : "gamma.vyborg.ru" , "resposta" : "195.177.105.21 "}
+{"site" : "glass-master.ru" , "resposta" : "62.122.170.171 "}
+{"site" : "gradinter.ru" , "resposta" : "185.189.15.13 "}
+{"site" : "greeting-cards.com" , "resposta" : "72.52.178.23 "}
+{"site" : "greeting-cards.org" , "resposta" : "104.21.18.115 172.67.181.202 "}
+{"site" : "gutemine.wu-wien.ac.at" , "resposta" : "137.208.3.39 "}
+{"site" : "hackerstuff.com" , "resposta" : "96.126.123.244 45.33.18.44 45.33.23.183 45.56.79.23 45.33.30.197 173.255.194.134 45.33.2.79 198.58.118.167 45.33.20.235 72.14.178.174 72.14.185.43 45.79.19.196 "}
+{"site" : "hackingstore.de" , "resposta" : "72.52.179.174 "}
+{"site" : "hbz-nrw.de" , "resposta" : "193.30.112.99 "}
+{"site" : "herzog.cs.uni-magdeburg.de" , "resposta" : "141.44.34.21 "}
+{"site" : "hgr.de" , "resposta" : "85.13.139.237 "}
+{"site" : "hgrstrailer.com" , "resposta" : "216.137.45.101 216.137.45.98 216.137.45.51 216.137.45.44 "}
+{"site" : "hkg3.com" , "resposta" : "traff-2.hugedomains.com. hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com. 3.130.253.23 3.130.204.160 "}
+{"site" : "home.profootball.ru" , "resposta" : "194.85.61.76 109.70.26.37 "}
+{"site" : "host.businessweek.com" , "resposta" : "investing.businessweek.com. www.envoy.cirrus.bloomberg.com. www.envoy.cirrus.bloomberg.com.shared.bloomberga.com. envoy.east-us.cumulus.bloomberg.com. envoy.eastus.cloudapp.azure.com. 104.45.185.92 "}
+{"site" : "host.wallstreetcity.com" , "resposta" : "66.54.128.99 "}
+{"site" : "host23.ipowerweb.com" , "resposta" : "66.235.218.123 "}
+{"site" : "i-hansol.com" , "resposta" : "211.57.201.79 "}
+{"site" : "iframetraff.biz" , "resposta" : "103.224.212.220 "}
+{"site" : "infokom.pl" , "resposta" : "46.242.174.177 "}
+{"site" : "interrybflot.ru" , "resposta" : "185.12.95.233 "}
+{"site" : "inversorlatino.com" , "resposta" : "52.20.84.62 "}
+{"site" : "judns.net" , "resposta" : "136.0.154.28 "}
+{"site" : "k2kapital.com" , "resposta" : "199.59.243.223 "}
+{"site" : "kafka.punkt.pl" , "resposta" : "176.9.109.236 "}
+{"site" : "kypexin.ru" , "resposta" : "45.84.207.40 "}
+{"site" : "lamatec.com" , "resposta" : "205.178.189.129 "}
+{"site" : "landofcash.net" , "resposta" : "108.170.40.3 "}
+{"site" : "lars-s.privat.t-online.de" , "resposta" : "80.150.6.138 "}
+{"site" : "laserbuild.ru" , "resposta" : "104.21.31.202 172.67.179.240 "}
+{"site" : "lottery.h11.ru" , "resposta" : "5.45.126.119 "}
+{"site" : "lovers.net" , "resposta" : "3.64.163.50 "}
+{"site" : "lyricsdomain.com" , "resposta" : "172.67.158.97 104.21.74.127 "}
+{"site" : "mcschnaeppchen.com" , "resposta" : "82.98.87.202 "}
+{"site" : "mdmedia.org" , "resposta" : "3.64.163.50 "}
+{"site" : "megion.ru" , "resposta" : "171.25.194.3 "}
+{"site" : "memelo.com" , "resposta" : "188.214.128.77 "}
+{"site" : "met.pl" , "resposta" : "91.211.222.71 "}
+{"site" : "metacenter.ru" , "resposta" : "62.122.170.171 "}
+{"site" : "milm.ru" , "resposta" : "185.114.245.107 "}
+{"site" : "mmag.ru" , "resposta" : "91.122.100.195 "}
+{"site" : "momentum.ru" , "resposta" : "92.53.96.244 "}
+{"site" : "myrtoscorp.com" , "resposta" : "188.40.131.177 "}
+{"site" : "nefkom.net" , "resposta" : "212.18.0.4 "}
+{"site" : "negativebeats.com" , "resposta" : "104.247.82.54 "}
+{"site" : "neostrada.pl" , "resposta" : "80.48.169.1 "}
+{"site" : "neprifan.ru" , "resposta" : "5.188.31.31 "}
+{"site" : "net-analysis.com" , "resposta" : "202.164.22.175 "}
+{"site" : "net-downloads.com" , "resposta" : "13.248.169.48 76.223.54.146 "}
+{"site" : "netradar.com" , "resposta" : "31.217.193.108 "}
+{"site" : "nominal.kaliningrad.ru" , "resposta" : "216.239.37.99 "}
+{"site" : "o1.com" , "resposta" : "66.81.32.30 "}
+{"site" : "oldtownradio.com" , "resposta" : "traff-3.hugedomains.com. hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com. 3.18.7.81 3.19.116.195 "}
+{"site" : "omegat.ru" , "resposta" : "62.122.170.171 "}
+{"site" : "omnicom.ru" , "resposta" : "5.9.147.30 "}
+{"site" : "oshweb.com" , "resposta" : "154.86.193.163 "}
+{"site" : "ourcj.com" , "resposta" : "154.219.104.100 "}
+{"site" : "perfectgirls.net" , "resposta" : "104.21.16.31 172.67.166.14 "}
+{"site" : "perfectjewel.com" , "resposta" : "103.224.182.240 "}
+{"site" : "peterstar.ru" , "resposta" : "85.26.148.40 "}
+{"site" : "phg.pl" , "resposta" : "176.32.162.200 "}
+{"site" : "piratos.de" , "resposta" : "72.52.179.174 "}
+{"site" : "playground.ru" , "resposta" : "212.42.38.154 "}
+{"site" : "porno-mania.net" , "resposta" : "104.206.179.68 "}
+{"site" : "porsa.ru" , "resposta" : "77.222.40.73 "}
+{"site" : "porta.de" , "resposta" : "23.213.18.77 23.213.18.78 "}
+{"site" : "positivebeats.com" , "resposta" : "traff-4.hugedomains.com. hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com. 3.94.41.167 52.86.6.113 "}
+{"site" : "protek.ru" , "resposta" : "194.146.119.199 "}
+{"site" : "puldk490gj.da.ru" , "resposta" : "62.109.15.100 "}
+{"site" : "quotes.barchart.com" , "resposta" : "www.barchart.com. d1efq56awlafrl.cloudfront.net. 108.157.162.75 108.157.162.61 108.157.162.92 108.157.162.57 "}
+{"site" : "radioam.net" , "resposta" : "104.21.58.186 172.67.206.64 "}
+{"site" : "rafani.cz" , "resposta" : "46.28.105.139 "}
+{"site" : "relay.great.ru" , "resposta" : "85.114.11.98 "}
+{"site" : "rollenspielzirkel.de" , "resposta" : "213.160.71.146 "}
+{"site" : "rubikon.pl" , "resposta" : "62.181.3.57 "}
+{"site" : "rumbgeo.ru" , "resposta" : "87.236.19.239 "}
+{"site" : "rweb.ru" , "resposta" : "88.198.57.148 "}
+{"site" : "sacred.ru" , "resposta" : "195.22.104.170 "}
+{"site" : "sbuilder.ru" , "resposta" : "95.213.172.134 "}
+{"site" : "scli.ru" , "resposta" : "188.254.16.6 "}
+{"site" : "sdsauto.ru" , "resposta" : "37.143.11.11 "}
+{"site" : "searc.com" , "resposta" : "66.63.171.125 "}
+{"site" : "sensi.com" , "resposta" : "23.227.38.32 "}
+{"site" : "silesianet.pl" , "resposta" : "212.106.162.100 "}
+{"site" : "sjgreatdeals.com" , "resposta" : "172.67.145.56 104.21.55.57 "}
+{"site" : "slavarik.ru" , "resposta" : "62.122.170.171 "}
+{"site" : "sovea.de" , "resposta" : "217.160.0.122 "}
+{"site" : "speedbit.com" , "resposta" : "173.239.4.63 "}
+{"site" : "stardialer.de" , "resposta" : "193.159.183.9 "}
+{"site" : "strefa.pl" , "resposta" : "46.242.150.5 "}
+{"site" : "strony.wp.pl" , "resposta" : "rd.wp.pl. 212.77.100.83 "}
+{"site" : "szm.sk" , "resposta" : "85.248.228.113 "}
+{"site" : "tanzen-in-sh.de" , "resposta" : "92.204.55.222 "}
+{"site" : "taom-clan.de" , "resposta" : "46.4.13.97 "}
+{"site" : "tarkosale.net" , "resposta" : "35.205.61.67 "}
+{"site" : "tayles.com" , "resposta" : "178.128.128.185 "}
+{"site" : "teatr-estrada.ru" , "resposta" : "90.156.128.167 "}
+{"site" : "teleline.ru" , "resposta" : "93.189.248.3 "}
+{"site" : "thehugetitstop.cn" , "resposta" : "170.106.49.122 "}
+{"site" : "thepositivesideofsports.com" , "resposta" : "34.102.136.180 "}
+{"site" : "thorpedo.us" , "resposta" : "34.102.136.180 "}
+{"site" : "timelessimages.com" , "resposta" : "162.55.172.212 65.21.240.245 159.69.42.212 23.88.53.29 195.201.124.255 95.216.161.60 159.69.186.9 168.119.245.137 159.69.83.207 "}
+{"site" : "traveldeals.sidestep.com" , "resposta" : "3.21.219.117 3.130.53.178 3.130.246.186 "}
+{"site" : "truefriends.net" , "resposta" : "173.255.194.134 198.58.118.167 45.33.18.44 96.126.123.244 45.33.30.197 45.79.19.196 45.56.79.23 45.33.23.183 45.33.20.235 72.14.185.43 72.14.178.174 45.33.2.79 "}
+{"site" : "tuhart.net" , "resposta" : "128.204.219.231 "}
+{"site" : "ultimate-best-hgh.0my.net" , "resposta" : "199.59.243.223 "}
+{"site" : "unionseek.com" , "resposta" : "traff-1.hugedomains.com. hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com. 52.71.57.184 54.209.32.212 "}
+{"site" : "us-downloads.com" , "resposta" : "208.91.196.152 "}
+{"site" : "v8.alwaysupdatednews.com" , "resposta" : "77980.bodis.com. 199.59.243.223 "}
+{"site" : "vendex.ru" , "resposta" : "195.209.41.52 "}
+{"site" : "vip.pnet.pl" , "resposta" : "93.157.100.38 "}
+{"site" : "vivamedia.ru" , "resposta" : "31.31.205.163 "}
+{"site" : "vrack.net" , "resposta" : "18.189.246.250 18.219.7.182 "}
+{"site" : "vx2.cc" , "resposta" : "cname.hhmao.top. 104.21.60.23 172.67.188.179 "}
+{"site" : "wapf.com" , "resposta" : "157.230.67.179 "}
+{"site" : "webpark.pl" , "resposta" : "212.77.100.83 "}
+{"site" : "webzdarma.cz" , "resposta" : "185.64.219.22 "}
+{"site" : "windupdates.com" , "resposta" : "3.64.163.50 "}
+{"site" : "xxxtoolbar.com" , "resposta" : "35.186.238.101 "}
+{"site" : "yaguark.h10.ru" , "resposta" : "5.45.126.119 "}
+{"site" : "yarcity.ru" , "resposta" : "62.122.170.171 "}
+{"site" : "youbuynow.com" , "resposta" : "208.91.197.160 "}
+{"site" : "ysbweb.com" , "resposta" : "69.162.80.59 "}
+{"site" : "zeiss.ru" , "resposta" : "137.117.197.5 "}
+{"site" : "zelnet.ru" , "resposta" : "77.232.31.163 77.232.31.162 "}
+{"site" : "zhp.gdynia.pl" , "resposta" : "192.3.201.175 "}

@@ -1,0 +1,188 @@
+{"site" : "amateurpornsites.net" , "resposta" : "206.54.189.200 "}
+{"site" : "anarchist-cookbook.com" , "resposta" : "3.33.130.190 15.197.148.33 "}
+{"site" : "antionline.com" , "resposta" : "3.128.174.27 18.220.119.219 "}
+{"site" : "asianmag.com" , "resposta" : "64.190.63.111 "}
+{"site" : "asianpornsites.net" , "resposta" : "64.6.103.170 "}
+{"site" : "astalavista.box.sk" , "resposta" : "gg.box.sk. 88.212.29.3 "}
+{"site" : "abu-passwords.com" , "resposta" : "172.67.179.11 104.21.51.106 "}
+{"site" : "acidmods.com" , "resposta" : "108.179.242.126 "}
+{"site" : "adultforum.co.uk" , "resposta" : "86.105.245.69 "}
+{"site" : "adultunderground.com" , "resposta" : "86.105.245.69 "}
+{"site" : "allpasswords.com" , "resposta" : "103.224.182.246 "}
+{"site" : "alphaproxy.com" , "resposta" : "traff-3.hugedomains.com. hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com. 3.18.7.81 3.19.116.195 "}
+{"site" : "altpassword.com" , "resposta" : "34.102.136.180 "}
+{"site" : "amateur-post.com" , "resposta" : "45.43.196.66 "}
+{"site" : "amateurpornsites.net" , "resposta" : "206.54.189.200 "}
+{"site" : "anarchist-cookbook.com" , "resposta" : "3.33.130.190 15.197.148.33 "}
+{"site" : "antionline.com" , "resposta" : "18.220.119.219 3.128.174.27 "}
+{"site" : "asianmag.com" , "resposta" : "64.190.63.111 "}
+{"site" : "asianpornsites.net" , "resposta" : "64.6.103.170 "}
+{"site" : "astalavista.box.sk" , "resposta" : "gg.box.sk. 88.212.29.3 "}
+{"site" : "backdoors.org" , "resposta" : "86.105.245.69 "}
+{"site" : "backtrack-linux.org" , "resposta" : "50.116.58.136 "}
+{"site" : "bandit.org" , "resposta" : "162.241.225.150 "}
+{"site" : "banditspasswords.com" , "resposta" : "104.21.87.83 172.67.142.132 "}
+{"site" : "benheck.com" , "resposta" : "165.227.119.147 "}
+{"site" : "bestcracks.com" , "resposta" : "76.223.54.146 13.248.169.48 "}
+{"site" : "betterpasswords.com" , "resposta" : "13.248.169.48 76.223.54.146 "}
+{"site" : "bit-torrent.to" , "resposta" : "104.21.67.218 172.67.181.102 "}
+{"site" : "blackcode.com" , "resposta" : "64.190.63.111 "}
+{"site" : "blackoutz-crew.de.gs" , "resposta" : "64.190.63.111 "}
+{"site" : "bo2k.com" , "resposta" : "143.95.39.208 "}
+{"site" : "booter.in" , "resposta" : "172.67.182.7 104.21.59.178 "}
+{"site" : "bpics.com" , "resposta" : "76.223.54.146 13.248.169.48 "}
+{"site" : "buha-security.de" , "resposta" : "78.46.65.48 "}
+{"site" : "buha.info" , "resposta" : "78.46.65.48 "}
+{"site" : "busch-hacker.de" , "resposta" : "78.46.65.48 "}
+{"site" : "clicks2.oxcash.com" , "resposta" : "66.230.168.14 "}
+{"site" : "crackdb.org" , "resposta" : "75.2.37.224 "}
+{"site" : "crackdbs.com" , "resposta" : "38.55.144.4 "}
+{"site" : "cracklib.net" , "resposta" : "199.59.243.223 "}
+{"site" : "cracks.ru" , "resposta" : "95.217.106.87 "}
+{"site" : "cultdeadcow.com" , "resposta" : "72.52.110.136 "}
+{"site" : "cyberarmy.com" , "resposta" : "66.70.200.212 "}
+{"site" : "cyberpasses.com" , "resposta" : "76.223.54.146 13.248.169.48 "}
+{"site" : "darkflash.com" , "resposta" : "103.123.243.25 "}
+{"site" : "darknet.org.uk" , "resposta" : "162.159.137.54 162.159.136.54 "}
+{"site" : "deltaone.org" , "resposta" : "3.64.163.50 "}
+{"site" : "dirtyflix.com" , "resposta" : "199.80.54.250 "}
+{"site" : "donkboy.com" , "resposta" : "174.136.46.196 "}
+{"site" : "easypasswords.com" , "resposta" : "45.33.23.183 45.33.2.79 45.33.30.197 45.33.20.235 198.58.118.167 45.33.18.44 72.14.178.174 72.14.185.43 96.126.123.244 45.79.19.196 45.56.79.23 173.255.194.134 "}
+{"site" : "econsultant.com" , "resposta" : "208.113.222.232 "}
+{"site" : "ejohn.org" , "resposta" : "216.239.38.21 216.239.32.21 216.239.34.21 216.239.36.21 "}
+{"site" : "elitehackers.de" , "resposta" : "188.40.92.90 "}
+{"site" : "elitepasswords.com" , "resposta" : "76.223.54.146 13.248.169.48 "}
+{"site" : "emule-web.de" , "resposta" : "85.214.201.236 "}
+{"site" : "evilhackr.com" , "resposta" : "13.248.169.48 76.223.54.146 "}
+{"site" : "exploit.pl" , "resposta" : "185.253.212.22 "}
+{"site" : "ezypass.com" , "resposta" : "76.223.54.146 13.248.169.48 "}
+{"site" : "f-ahmadi.blogfa.com" , "resposta" : "149.56.201.253 "}
+{"site" : "fantasypass.com" , "resposta" : "69.10.51.122 "}
+{"site" : "freeline.ws" , "resposta" : "195.201.124.255 162.55.172.212 65.21.240.245 23.88.53.29 159.69.42.212 159.69.186.9 95.216.161.60 159.69.83.207 168.119.245.137 "}
+{"site" : "freshcherries.com" , "resposta" : "76.223.54.146 13.248.169.48 "}
+{"site" : "freshmpegs.com" , "resposta" : "76.223.54.146 13.248.169.48 "}
+{"site" : "gadast.org" , "resposta" : "107.23.193.226 "}
+{"site" : "ghacks.net" , "resposta" : "104.26.0.250 172.67.71.75 104.26.1.250 "}
+{"site" : "girlscaught.com" , "resposta" : "traff-3.hugedomains.com. hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com. 3.18.7.81 3.19.116.195 "}
+{"site" : "greatpasswords.com" , "resposta" : "76.223.54.146 13.248.169.48 "}
+{"site" : "greatthumbs.com" , "resposta" : "76.223.54.146 13.248.169.48 "}
+{"site" : "gulli.com" , "resposta" : "172.67.131.120 104.21.10.118 "}
+{"site" : "hack.co.za" , "resposta" : "127.0.0.1 "}
+{"site" : "hackaday.com" , "resposta" : "192.0.66.96 "}
+{"site" : "hackcanada.com" , "resposta" : "69.16.230.226 "}
+{"site" : "hackedpass.com" , "resposta" : "136.144.143.18 "}
+{"site" : "hackedvideo.com" , "resposta" : "64.190.63.111 "}
+{"site" : "hackers-supply.com" , "resposta" : "103.224.182.253 "}
+{"site" : "hackers.com" , "resposta" : "14.49.30.92 "}
+{"site" : "hackerslab.org" , "resposta" : "13.209.38.71 "}
+{"site" : "hackerstuff.com" , "resposta" : "72.14.178.174 45.33.30.197 198.58.118.167 45.56.79.23 96.126.123.244 173.255.194.134 45.33.23.183 72.14.185.43 45.79.19.196 45.33.20.235 45.33.18.44 45.33.2.79 "}
+{"site" : "hackingforum.de" , "resposta" : "64.190.63.111 "}
+{"site" : "hackings.cn" , "resposta" : "23.231.254.230 "}
+{"site" : "hackthissite.org" , "resposta" : "137.74.187.101 137.74.187.102 137.74.187.100 137.74.187.103 137.74.187.104 "}
+{"site" : "hackwriters.com" , "resposta" : "62.233.121.45 "}
+{"site" : "happyhacker.org" , "resposta" : "74.208.236.101 "}
+{"site" : "i-brid.perso.neuf.fr" , "resposta" : "86.65.123.70 "}
+{"site" : "ians.978.org" , "resposta" : "98.110.203.122 "}
+{"site" : "icewarez.net" , "resposta" : "118.27.122.253 "}
+{"site" : "inboot.me" , "resposta" : "185.53.177.31 "}
+{"site" : "ir-orgy.com" , "resposta" : "198.2.243.41 "}
+{"site" : "irongeek.com" , "resposta" : "69.163.160.254 "}
+{"site" : "iseekpasswords.com" , "resposta" : "104.21.234.52 104.21.234.53 "}
+{"site" : "japandeep.com" , "resposta" : "81.171.28.44 "}
+{"site" : "jinx.com" , "resposta" : "34.102.136.180 23.227.38.32 "}
+{"site" : "jinxhackwear.com" , "resposta" : "15.197.142.173 3.33.152.147 "}
+{"site" : "l0pht.com" , "resposta" : "217.70.184.38 "}
+{"site" : "linkhq.net" , "resposta" : "104.19.240.93 104.19.241.93 "}
+{"site" : "loaderror.com" , "resposta" : "3.64.163.50 "}
+{"site" : "lockpickshop.com" , "resposta" : "104.26.4.246 172.67.74.135 104.26.5.246 "}
+{"site" : "lolitateen.com" , "resposta" : "traff-2.hugedomains.com. hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com. 3.130.253.23 3.130.204.160 "}
+{"site" : "lustworld.com" , "resposta" : "3.64.163.50 "}
+{"site" : "magichip.com" , "resposta" : "traff-4.hugedomains.com. hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com. 52.86.6.113 3.94.41.167 "}
+{"site" : "modchip.com" , "resposta" : "205.178.189.129 "}
+{"site" : "mostpasswords.com" , "resposta" : "104.143.9.111 104.143.9.110 "}
+{"site" : "nethacker.de" , "resposta" : "80.237.132.167 "}
+{"site" : "networkpunk.com" , "resposta" : "3.64.163.50 "}
+{"site" : "networkstresser.com" , "resposta" : "72.52.178.23 "}
+{"site" : "nirsoft.net" , "resposta" : "138.128.181.29 "}
+{"site" : "ooze.org" , "resposta" : "3.33.152.147 15.197.142.173 "}
+{"site" : "pass-zone.com" , "resposta" : "52.58.136.92 "}
+{"site" : "passcity.com" , "resposta" : "3.64.163.50 "}
+{"site" : "passcracker.com" , "resposta" : "13.248.169.48 76.223.54.146 "}
+{"site" : "passhacks.com" , "resposta" : "76.223.54.146 13.248.169.48 "}
+{"site" : "passhq.com" , "resposta" : "13.248.169.48 76.223.54.146 "}
+{"site" : "passjoint.com" , "resposta" : "13.248.169.48 76.223.54.146 "}
+{"site" : "passmerchant.com" , "resposta" : "64.190.63.111 "}
+{"site" : "passsearch.com" , "resposta" : "traff-6.hugedomains.com. hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com. 3.140.13.188 18.119.154.66 "}
+{"site" : "passwhiz.com" , "resposta" : "104.198.14.52 "}
+{"site" : "password-crackers.com" , "resposta" : "217.112.35.78 "}
+{"site" : "passwordalliance.com" , "resposta" : "13.248.169.48 76.223.54.146 "}
+{"site" : "passwordcorp.com" , "resposta" : "traff-5.hugedomains.com. hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com. 34.205.242.146 54.161.222.85 "}
+{"site" : "passwordhacks.com" , "resposta" : "76.223.54.146 13.248.169.48 "}
+{"site" : "passwordhq.com" , "resposta" : "209.126.123.13 "}
+{"site" : "passwordlist.com" , "resposta" : "76.223.54.146 13.248.169.48 "}
+{"site" : "passwordmafia.com" , "resposta" : "103.205.84.44 "}
+{"site" : "passwordmatrix.com" , "resposta" : "91.195.241.232 "}
+{"site" : "passwordoutlet.com" , "resposta" : "94.229.72.115 "}
+{"site" : "passwordpower.com" , "resposta" : "76.223.54.146 13.248.169.48 "}
+{"site" : "passwords.dk" , "resposta" : "104.21.43.230 172.67.186.224 "}
+{"site" : "passxxx.com" , "resposta" : "18.189.246.250 18.219.7.182 "}
+{"site" : "phazeddl.com" , "resposta" : "172.67.213.61 104.21.23.203 "}
+{"site" : "phrack.org" , "resposta" : "194.150.169.131 "}
+{"site" : "piratos.de" , "resposta" : "72.52.179.174 "}
+{"site" : "planettoons.com" , "resposta" : "traff-1.hugedomains.com. hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com. 54.209.32.212 52.71.57.184 "}
+{"site" : "pleasure-zone.com" , "resposta" : "104.247.82.50 "}
+{"site" : "pleasuremedia.com" , "resposta" : "13.248.169.48 76.223.54.146 "}
+{"site" : "pleasureworld.com" , "resposta" : "13.248.169.48 76.223.54.146 "}
+{"site" : "porn-site-passwords.com" , "resposta" : "149.210.194.15 "}
+{"site" : "port88.virtualave.net" , "resposta" : "38.113.1.155 "}
+{"site" : "pureangels.com" , "resposta" : "207.148.248.143 "}
+{"site" : "pusspost.com" , "resposta" : "103.224.182.242 "}
+{"site" : "pwcrack.com" , "resposta" : "108.158.147.98 108.158.147.63 108.158.147.120 108.158.147.42 "}
+{"site" : "rarepasswords.com" , "resposta" : "136.144.143.19 "}
+{"site" : "rawpasswords.com" , "resposta" : "195.228.254.184 "}
+{"site" : "rewebber.com" , "resposta" : "45.252.249.17 "}
+{"site" : "rewebber.de" , "resposta" : "85.13.143.197 "}
+{"site" : "rootkit.com" , "resposta" : "50.47.64.51 "}
+{"site" : "rwwr.com" , "resposta" : "46.30.211.38 "}
+{"site" : "safemode.org" , "resposta" : "104.21.39.225 172.67.149.97 "}
+{"site" : "safeweb.com" , "resposta" : "23.99.92.83 40.69.201.11 "}
+{"site" : "satanweb.de" , "resposta" : "91.195.240.13 "}
+{"site" : "scoopy.net" , "resposta" : "108.170.41.2 "}
+{"site" : "serialkey.net" , "resposta" : "81.171.28.46 "}
+{"site" : "serials.ws" , "resposta" : "104.21.75.156 172.67.178.110 "}
+{"site" : "sexspy.com" , "resposta" : "104.143.9.110 104.143.9.111 "}
+{"site" : "shockingporn.com" , "resposta" : "64.190.63.111 "}
+{"site" : "slutpass.com" , "resposta" : "35.186.238.101 "}
+{"site" : "snap.com" , "resposta" : "34.120.54.238 "}
+{"site" : "sub7files.com" , "resposta" : "172.67.222.42 104.21.70.88 "}
+{"site" : "suddendischarge.com" , "resposta" : "104.247.81.54 "}
+{"site" : "superpasswords.com" , "resposta" : "13.248.169.48 76.223.54.146 "}
+{"site" : "teenyclub.com" , "resposta" : "199.59.243.223 "}
+{"site" : "teenypost.com" , "resposta" : "103.38.170.55 "}
+{"site" : "telephonyworld.com" , "resposta" : "172.67.198.126 104.21.52.116 "}
+{"site" : "th4.org" , "resposta" : "78.40.10.97 "}
+{"site" : "thebestproxies.com" , "resposta" : "192.64.119.91 "}
+{"site" : "thesecretlist.com" , "resposta" : "3.64.163.50 "}
+{"site" : "titus.home.ro" , "resposta" : "188.27.197.78 "}
+{"site" : "uhfpasswords.com" , "resposta" : "136.144.143.20 "}
+{"site" : "ultimatepasses.com" , "resposta" : "13.248.169.48 76.223.54.146 "}
+{"site" : "ultrapassword.com" , "resposta" : "76.223.35.103 "}
+{"site" : "usapasswords.com" , "resposta" : "76.223.54.146 13.248.169.48 "}
+{"site" : "vdos-s.com" , "resposta" : "199.59.243.223 "}
+{"site" : "vikingpasses.com" , "resposta" : "computer.com. 192.64.151.249 "}
+{"site" : "virtualpasswords.com" , "resposta" : "76.223.54.146 13.248.169.48 "}
+{"site" : "vx2.cc" , "resposta" : "cname.hhmao.top. 104.21.60.23 172.67.188.179 "}
+{"site" : "warez.com" , "resposta" : "199.59.243.223 "}
+{"site" : "wigle.net" , "resposta" : "54.70.85.50 "}
+{"site" : "wildsmut.com" , "resposta" : "104.247.81.114 "}
+{"site" : "worldofsin.com" , "resposta" : "traff-3.hugedomains.com. hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com. 3.19.116.195 3.18.7.81 "}
+{"site" : "worldstopsites.com" , "resposta" : "204.11.56.37 "}
+{"site" : "xcitepass.com" , "resposta" : "76.223.54.146 13.248.169.48 "}
+{"site" : "xpass.org" , "resposta" : "35.186.238.101 "}
+{"site" : "xpasses.com" , "resposta" : "207.148.248.143 "}
+{"site" : "xpasswordz.com" , "resposta" : "76.223.54.146 13.248.169.48 "}
+{"site" : "xxx-passwords.org" , "resposta" : "149.210.165.181 "}
+{"site" : "xxxcorner.com" , "resposta" : "traff-2.hugedomains.com. hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com. 3.130.253.23 3.130.204.160 "}
+{"site" : "xxxfinders.com" , "resposta" : "45.88.202.115 "}
+{"site" : "xxxmasterz.com" , "resposta" : "13.248.169.48 76.223.54.146 "}
+{"site" : "zensur.freerk.com" , "resposta" : "85.13.141.98 "}
